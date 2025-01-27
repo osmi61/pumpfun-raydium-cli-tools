@@ -21,12 +21,6 @@ If you need my help, plz contact to me here
 
 - **_Got everything needed for any developer to create their own trading bot_**
 
-## Credits
-- https://github.com/outsmartchad/raydium-sdk-V1-demo
-- https://github.com/rckprtr/pumpdotfun-sdk
-- https://github.com/Al366io/solana-transactions-wrapper
-
-
 ## Project Structure
 ```
 .solana-memecoin-cli
