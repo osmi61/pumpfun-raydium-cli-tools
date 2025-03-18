@@ -2,6 +2,10 @@
 If you need my help, plz contact to me here
 [telegram @Ee1030109](https://t.me/Ee1030109)
 
+# Updated Features
+Pump.fun updated his smart contract for pump.fun AMM
+so I add updated IDL, you should updated pump.fun sdk based on new IDL.
+
 ## Main Features
 - Trading any token using Jupiter API & Raydium swap function
 
