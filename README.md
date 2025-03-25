@@ -3,6 +3,8 @@ If you need my help, plz contact to me here
 [telegram @Ee1030109](https://t.me/Ee1030109)
 
 # Updated Features
+Updated PumpSwap Dex sdk, [HERE](https://github.com/hexnome/pumpswap-amm-tools)
+I will develop PumpSwap dex tools. 
 Pump.fun updated his smart contract for pump.fun AMM
 so I add updated IDL, you should updated pump.fun sdk based on new IDL.
 
